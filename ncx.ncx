@@ -1,0 +1,100 @@
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="9f4d99d5-69a6-45af-8a3e-13b0167b916a"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>ChatGPT Side Hustles 2024 - Unlock the Digital Goldmine and Get AI Working for You Fast with More Than 85 Side Hustle Ideas to Boost Passive Income, Create New Cash Flow, and Get Ahead of the Curve</text>
+  </docTitle>
+  <docAuthor>
+    <text>Alec Rowe</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="c001" playOrder="1">
+      <navLabel>
+        <text>ChatGPT Side Hustles 2024 - Unlock the Digital Goldmine and Get AI Working for You Fast with More Than 85 Side Hustle Ideas to Boost Passive Income, Create New Cash Flow, and Get Ahead of the Curve</text>
+      </navLabel>
+      <content src="c001.xhtml"/>
+    </navPoint>
+    <navPoint id="c002" playOrder="2">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="c002.xhtml"/>
+    </navPoint>
+    <navPoint id="c003" playOrder="3">
+      <navLabel>
+        <text>Chapter 1: Introduction to ChatGPT Technology</text>
+      </navLabel>
+      <content src="c003.xhtml"/>
+    </navPoint>
+    <navPoint id="c004" playOrder="4">
+      <navLabel>
+        <text>Chapter 2: Content Creation and Media</text>
+      </navLabel>
+      <content src="c004.xhtml"/>
+    </navPoint>
+    <navPoint id="c005" playOrder="5">
+      <navLabel>
+        <text>Chapter 3: Marketing and Advertising</text>
+      </navLabel>
+      <content src="c005.xhtml"/>
+    </navPoint>
+    <navPoint id="c006" playOrder="6">
+      <navLabel>
+        <text>Chapter 4: Education and Training</text>
+      </navLabel>
+      <content src="c006.xhtml"/>
+    </navPoint>
+    <navPoint id="c007" playOrder="7">
+      <navLabel>
+        <text>Chapter 5: Creative Arts and Design</text>
+      </navLabel>
+      <content src="c007.xhtml"/>
+    </navPoint>
+    <navPoint id="c008" playOrder="8">
+      <navLabel>
+        <text>Chapter 6: Business Support and Administration</text>
+      </navLabel>
+      <content src="c008.xhtml"/>
+    </navPoint>
+    <navPoint id="c009" playOrder="9">
+      <navLabel>
+        <text>Chapter 7: Technology and Development</text>
+      </navLabel>
+      <content src="c009.xhtml"/>
+    </navPoint>
+    <navPoint id="c010" playOrder="10">
+      <navLabel>
+        <text>Chapter 8: Health and Wellness</text>
+      </navLabel>
+      <content src="c010.xhtml"/>
+    </navPoint>
+    <navPoint id="c011" playOrder="11">
+      <navLabel>
+        <text>Chapter 9: Customer Service and Engagement</text>
+      </navLabel>
+      <content src="c011.xhtml"/>
+    </navPoint>
+    <navPoint id="c012" playOrder="12">
+      <navLabel>
+        <text>Chapter 10: Future-Proofing Your Side Hustle: Staying Ahead With AI</text>
+      </navLabel>
+      <content src="c012.xhtml"/>
+    </navPoint>
+    <navPoint id="c013" playOrder="13">
+      <navLabel>
+        <text>Conclusion</text>
+      </navLabel>
+      <content src="c013.xhtml"/>
+    </navPoint>
+    <navPoint id="c014" playOrder="14">
+      <navLabel>
+        <text>References</text>
+      </navLabel>
+      <content src="c014.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
